@@ -17,7 +17,7 @@ app.use("/", getRoute);
 app.use("/", postRoute);
 
 // DB CONNECTION
-mongoose.connect("mongodb+srv://foodqr:foodqr@cluster0.htwnktc.mongodb.net/?retryWrites=true&w=majority" || process.env.MONGODB_URI, (err) =>
+mongoose.connect(process.env.MONGODB_URI, (err) =>
   err ? console.log(err) : console.log("DB Connected")
 );
 
