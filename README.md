@@ -1,6 +1,7 @@
 <h2 align="center">Smart-Menu-Card</h2>
 
 <p>
+  You can create your online menu card which can be used anywhere. once you generate a qr you can just scan it and get your online menu card.
   You can find website live <a href="https://smart-menu-card.herokuapp.com/">here</a>
 </p>
 
