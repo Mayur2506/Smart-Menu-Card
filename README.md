@@ -1,0 +1,50 @@
+<h2 align="center">Smart-Menu-Card</h2>
+
+## Getting Started
+
+1. Clone the repo
+
+```
+https://github.com/Mayur2506/Smart-Menu-Card.git
+```
+2. Move Into Working Directory
+```
+cd Smart-Menu-Card
+```
+
+3. At the Project root run
+
+```sh
+npm install
+```
+
+```sh
+node server/index.js
+```
+4. Move into the client folder
+
+```
+cd client
+```
+5. Run The Project using 
+
+```
+npm install
+```
+
+```
+npm start
+```
+
+## TECH STACK
+
+1. Front-end:
+   - ReactJs
+2. Back-end:
+   - Node.js
+   - Express
+3. Database:
+   - MongoDB
+4. Package Used:
+   - QRCode.react
+
