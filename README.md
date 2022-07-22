@@ -1,5 +1,9 @@
 <h2 align="center">Smart-Menu-Card</h2>
 
+<p>
+  You can find website live <a href="https://smart-menu-card.herokuapp.com/">here</a>
+</p>
+
 ## Getting Started
 
 1. Clone the repo
