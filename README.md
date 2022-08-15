@@ -2,7 +2,7 @@
 
 <p>
   You can create your online menu card which can be used anywhere using qr. <br>
-  You can find website live <a href="https://smart-menu-card.herokuapp.com/">here</a>
+  You can find webapp live <a href="https://smart-menu-card.herokuapp.com/">here</a>
 </p>
 
 ## Getting Started
